@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Заметки'
-subtitle: 'технические и нет'
-description: 'для себя, на память, артефакты'
+title: 'Self Notes'
+subtitle: 'tech and non-tech'
+description: 'memorizing artefacts'
 keywords:
 author: Sergey Zlochevsky
-language: ru
+language: en
 timezone: 'Asia/Jerusalem'
 
 # URL
