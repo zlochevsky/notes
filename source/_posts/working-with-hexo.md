@@ -34,11 +34,11 @@ $ hexo new page <name>
 ```
 
 
-To create drafts by default an option in `_config.yaml` file needs to be changed:
+To create drafts by default, an option in `_config.yaml` file needs to be edited:
 
 `default_layout: draft`
 
-So by typing `hexo create new <filename>` Hexo will create _draft_ istead of  _blog post_.
+So by typing `hexo create new <filename>`, Hexo will create _draft_ istead of  _blog post_.
 
 
 Regenerate public directory and upload to site:
